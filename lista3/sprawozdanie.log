@@ -1,0 +1,429 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.24)  1 DEC 2021 15:59
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**sprawozdanie.tex
+(./sprawozdanie.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen135
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count176
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count177
+\leftroot@=\count178
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count179
+\DOTSCASE@=\count180
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen137
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count181
+\c@MaxMatrixCols=\count182
+\dotsspace@=\muskip16
+\c@parentequation=\count183
+\dspbrk@lvl=\count184
+\tag@help=\toks17
+\row@=\count185
+\column@=\count186
+\maxfields@=\count187
+\andhelp@=\toks18
+\eqnshift@=\dimen138
+\alignsep@=\dimen139
+\tagshift@=\dimen140
+\tagwidth@=\dimen141
+\totwidth@=\dimen142
+\lineht@=\dimen143
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count188
+\float@exts=\toks21
+\float@box=\box47
+\@float@everytoks=\toks22
+\@floatcapt=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count189
+\l__pdf_internal_box=\box49
+)
+
+LaTeX Warning: Unused global option(s):
+    [14pt].
+
+(./sprawozdanie.aux)
+\openout1 = `sprawozdanie.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count190
+\scratchdimen=\dimen146
+\scratchbox=\box50
+\nofMPsegments=\count191
+\nofMParguments=\count192
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen147
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (6.02539pt too wide) in paragraph at lines 23--25
+\T1/cmr/m/n/10 cznie zde-cy-dowaªem si¦ rozsz-erzy¢ wyma-gania i ka»dy z pod-pu
+nk-tów przetestowa¢
+ []
+
+
+Overfull \hbox (4.92749pt too wide) in paragraph at lines 23--25
+\T1/cmr/m/n/10 dla wszys-t-kich po-danych w tre±ci warto±ci $\OML/cmm/m/it/10 k
+$\T1/cmr/m/n/10 . Za-prezen-towane wyniki s¡ przykªad-
+ []
+
+
+Overfull \hbox (109.77258pt too wide) in paragraph at lines 37--49
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (119.7436pt too wide) in paragraph at lines 49--61
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+[1]
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 77--90
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 90--103
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+[2]
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 119--133
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 133--147
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+
+Overfull \hbox (114.7726pt too wide) in paragraph at lines 163--178
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+[3]
+Overfull \hbox (119.7436pt too wide) in paragraph at lines 178--193
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 209--225
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (119.7436pt too wide) in paragraph at lines 225--241
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+[4]
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 257--274
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 274--291
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+[5]
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 311--323
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 323--335
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+[6]
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 351--364
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 364--377
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+
+Overfull \hbox (114.7726pt too wide) in paragraph at lines 393--407
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+[7]
+Overfull \hbox (119.7436pt too wide) in paragraph at lines 407--421
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 437--452
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 452--467
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+[8]
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 483--499
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 499--515
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+[9]
+Overfull \hbox (119.77261pt too wide) in paragraph at lines 531--548
+[]\T1/cmr/m/n/10 Test: $[]$ 
+ []
+
+
+Overfull \hbox (124.74362pt too wide) in paragraph at lines 548--565
+[]\T1/cmr/m/n/10 Train: $[]$ 
+ []
+
+
+Overfull \hbox (3.06003pt too wide) in paragraph at lines 574--575
+[]\T1/cmr/m/n/10 Wykorzystuj¡c klasteryza-cj¦ metod¡ k-±rednich otrzy-mu-jemy g
+orsze wyniki
+ []
+
+[10]
+Overfull \hbox (9.53067pt too wide) in paragraph at lines 578--579
+[]\T1/cmr/m/n/10 Zdecydowana wi¦k-szo±¢ otrzy-manych predykcji dla liczb odr¦cz
+nych, których
+ []
+
+
+Overfull \hbox (8.58032pt too wide) in paragraph at lines 581--582
+\T1/cmr/m/n/10 Dodatkowym wymo-giem zada-nia byªo przed-staw-ie-nie graficzne o
+brazu cen-troidów: 
+ []
+
+<./wykresy/k7.png, id=48, 304.13625pt x 180.675pt>
+File: ./wykresy/k7.png Graphic file (type png)
+<use ./wykresy/k7.png>
+Package pdftex.def Info: ./wykresy/k7.png  used on input line 585.
+(pdftex.def)             Requested size: 304.1355pt x 180.67455pt.
+<./wykresy/k71000.png, id=49, 299.61937pt x 178.41656pt>
+File: ./wykresy/k71000.png Graphic file (type png)
+<use ./wykresy/k71000.png>
+Package pdftex.def Info: ./wykresy/k71000.png  used on input line 590.
+(pdftex.def)             Requested size: 299.61864pt x 178.4161pt.
+[11 <./wykresy/k7.png>]
+<./wykresy/k8.png, id=53, 301.125pt x 179.16937pt>
+File: ./wykresy/k8.png Graphic file (type png)
+<use ./wykresy/k8.png>
+Package pdftex.def Info: ./wykresy/k8.png  used on input line 596.
+(pdftex.def)             Requested size: 301.12425pt x 179.16893pt.
+<./wykresy/k81000.png, id=54, 299.61937pt x 178.41656pt>
+File: ./wykresy/k81000.png Graphic file (type png)
+<use ./wykresy/k81000.png>
+Package pdftex.def Info: ./wykresy/k81000.png  used on input line 601.
+(pdftex.def)             Requested size: 299.61864pt x 178.4161pt.
+ [12 <./wykresy/k71000.png> <./wykresy/k8.png>]
+<./wykresy/k9.png, id=59, 301.125pt x 180.675pt>
+File: ./wykresy/k9.png Graphic file (type png)
+<use ./wykresy/k9.png>
+Package pdftex.def Info: ./wykresy/k9.png  used on input line 607.
+(pdftex.def)             Requested size: 301.12425pt x 180.67455pt.
+<./wykresy/k91000.png, id=60, 301.125pt x 180.675pt>
+File: ./wykresy/k91000.png Graphic file (type png)
+<use ./wykresy/k91000.png>
+Package pdftex.def Info: ./wykresy/k91000.png  used on input line 612.
+(pdftex.def)             Requested size: 301.12425pt x 180.67455pt.
+ [13 <./wykresy/k81000.png> <./wykresy/k9.png>]
+<./wykresy/k10.png, id=64, 304.13625pt x 178.41656pt>
+File: ./wykresy/k10.png Graphic file (type png)
+<use ./wykresy/k10.png>
+Package pdftex.def Info: ./wykresy/k10.png  used on input line 618.
+(pdftex.def)             Requested size: 304.1355pt x 178.4161pt.
+<./wykresy/k101000.png, id=66, 304.88907pt x 177.66376pt>
+File: ./wykresy/k101000.png Graphic file (type png)
+<use ./wykresy/k101000.png>
+Package pdftex.def Info: ./wykresy/k101000.png  used on input line 623.
+(pdftex.def)             Requested size: 304.88832pt x 177.66331pt.
+ [14 <./wykresy/k91000.png> <./wykresy/k10.png>]
+<./wykresy/k11.png, id=71, 303.38344pt x 179.92218pt>
+File: ./wykresy/k11.png Graphic file (type png)
+<use ./wykresy/k11.png>
+Package pdftex.def Info: ./wykresy/k11.png  used on input line 629.
+(pdftex.def)             Requested size: 303.38269pt x 179.92174pt.
+<./wykresy/k111000.png, id=72, 304.88907pt x 178.41656pt>
+File: ./wykresy/k111000.png Graphic file (type png)
+<use ./wykresy/k111000.png>
+Package pdftex.def Info: ./wykresy/k111000.png  used on input line 634.
+(pdftex.def)             Requested size: 304.88832pt x 178.4161pt.
+ [15 <./wykresy/k101000.png> <./wykresy/k11.png>]
+<./wykresy/k12.png, id=76, 303.38344pt x 176.91093pt>
+File: ./wykresy/k12.png Graphic file (type png)
+<use ./wykresy/k12.png>
+Package pdftex.def Info: ./wykresy/k12.png  used on input line 640.
+(pdftex.def)             Requested size: 303.38269pt x 176.91049pt.
+<./wykresy/k121000.png, id=77, 304.88907pt x 180.675pt>
+File: ./wykresy/k121000.png Graphic file (type png)
+<use ./wykresy/k121000.png>
+Package pdftex.def Info: ./wykresy/k121000.png  used on input line 645.
+(pdftex.def)             Requested size: 304.88832pt x 180.67455pt.
+ [16 <./wykresy/k111000.png> <./wykresy/k12.png>]
+<./wykresy/klastry.png, id=81, 436.63126pt x 315.42844pt>
+File: ./wykresy/klastry.png Graphic file (type png)
+<use ./wykresy/klastry.png>
+Package pdftex.def Info: ./wykresy/klastry.png  used on input line 653.
+(pdftex.def)             Requested size: 436.63019pt x 315.42766pt.
+
+Overfull \hbox (91.63019pt too wide) in paragraph at lines 653--655
+ [][] 
+ []
+
+[17 <./wykresy/k121000.png>] [18 <./wykresy/klastry.png>] (./sprawozdanie.aux) 
+) 
+Here is how much of TeX's memory you used:
+ 2190 strings out of 483183
+ 28509 string characters out of 5966291
+ 282139 words of memory out of 5000000
+ 17209 multiletter control sequences out of 15000+600000
+ 541837 words of font info for 46 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 30i,8n,25p,518b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/radikey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.60
+0pk> </home/radikey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecti1000
+.600pk> </home/radikey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1
+000.600pk> </home/radikey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/ec
+rm1000.600pk> </home/radikey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec
+/ecbx1440.600pk> </home/radikey/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen
+/ec/ecrm1200.600pk> </home/radikey/.texlive2019/texmf-var/fonts/pk/ljfour/jknap
+pen/ec/ecrm1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on sprawozdanie.pdf (19 pages, 407511 bytes).
+PDF statistics:
+ 331 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
